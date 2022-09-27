@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/cross-tools", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/cross-tools-kompressor-kuehlbox-icebox-40-cross-tools-6960322-1.jpg":"\u002Fassets\u002Fimages\u002Fcross-tools-kompressor-kuehlbox-icebox-40-cross-tools-6960322-1.webp"}}],fetch:{},mutations:void 0});

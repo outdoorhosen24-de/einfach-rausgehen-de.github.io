@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/palmako", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/palmako-spielhaus-felix-169-cm-x-216-cm-x-184-cm-palmako-1609643-1.jpg":"\u002Fassets\u002Fimages\u002Fpalmako-spielhaus-felix-169-cm-x-216-cm-x-184-cm-palmako-1609643-1.webp"}}],fetch:{},mutations:void 0});

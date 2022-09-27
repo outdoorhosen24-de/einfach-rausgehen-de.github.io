@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/hudora", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/hudora-leiter-fuer-trampoline-hudora-7149149-1.jpg":"\u002Fassets\u002Fimages\u002Fhudora-leiter-fuer-trampoline-hudora-7149149-1.webp"}}],fetch:{},mutations:void 0});
