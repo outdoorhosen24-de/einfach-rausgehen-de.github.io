@@ -1,107 +1,121 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "gartenspielgeräte",
+        "name": "Gartenspielgeräte",
+        "slug": "gartenspielgerate",
+        "productCategory": "Gartenspielgeräte",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "sandkästen",
+        "name": "Sandkästen",
+        "slug": "sandkasten",
+        "productCategory": "Sandkästen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "bootssport",
+        "name": "Bootssport",
+        "slug": "bootssport",
+        "productCategory": "Bootssport",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "sicherheit für bootstechnik",
+        "name": "Sicherheit für Bootstechnik",
+        "slug": "sicherheit-fur-bootstechnik",
+        "productCategory": "Sicherheit für Bootstechnik",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "camping & zubehör",
+        "name": "Camping & Zubehör",
+        "slug": "camping-zubehor",
+        "productCategory": "Camping & Zubehör",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "rutschen & schaukeln",
+        "name": "Rutschen & Schaukeln",
+        "slug": "rutschen-schaukeln",
+        "productCategory": "Rutschen & Schaukeln",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "spielhäuser",
+        "name": "Spielhäuser",
+        "slug": "spielhauser",
+        "productCategory": "Spielhäuser",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "weitere spielgeräte",
+        "name": "Weitere Spielgeräte",
+        "slug": "weitere-spielgerate",
+        "productCategory": "Weitere Spielgeräte",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "spieltürme & spielanlagen",
+        "name": "Spieltürme & Spielanlagen",
+        "slug": "spielturme-spielanlagen",
+        "productCategory": "Spieltürme & Spielanlagen",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "wasserspielzeug",
+        "name": "Wasserspielzeug",
+        "slug": "wasserspielzeug",
+        "productCategory": "Wasserspielzeug",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "luftmatratzen",
+        "name": "Luftmatratzen",
+        "slug": "luftmatratzen",
+        "productCategory": "Luftmatratzen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "trampoline",
+        "name": "Trampoline",
+        "slug": "trampoline",
+        "productCategory": "Trampoline",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "trampolin-zubehör",
+        "name": "Trampolin-Zubehör",
+        "slug": "trampolin-zubehor",
+        "productCategory": "Trampolin-Zubehör",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "gartentrampoline",
+        "name": "Gartentrampoline",
+        "slug": "gartentrampoline",
+        "productCategory": "Gartentrampoline",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "spiel & spaß",
+        "name": "Spiel & Spaß",
+        "slug": "spiel-spass",
+        "productCategory": "Spiel & Spaß",
+        "subCategories": []
+    },
+    {
+        "key": "luftpumpen",
+        "name": "Luftpumpen",
+        "slug": "luftpumpen",
+        "productCategory": "Luftpumpen",
+        "subCategories": []
+    },
+    {
+        "key": "wasserspritzen",
+        "name": "Wasserspritzen",
+        "slug": "wasserspritzen",
+        "productCategory": "Wasserspritzen",
         "subCategories": []
     }
 ]

@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,66 +7,150 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "seilflechter",
+        "name": "Seilflechter",
+        "slug": "seilflechter",
+        "productCategory": "Seilflechter",
+        "localThumb": "/assets/images/hersteller/seilflechter.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "gaspo",
+        "name": "GASPO",
+        "slug": "gaspo",
+        "productCategory": "GASPO",
+        "localThumb": "/assets/images/hersteller/gaspo.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "campingaz",
+        "name": "Campingaz",
+        "slug": "campingaz",
+        "productCategory": "Campingaz",
+        "localThumb": "/assets/images/hersteller/campingaz.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "axi",
+        "name": "AXI",
+        "slug": "axi",
+        "productCategory": "AXI",
+        "localThumb": "/assets/images/hersteller/axi.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "step2",
+        "name": "Step2",
+        "slug": "step2",
+        "productCategory": "Step2",
+        "localThumb": "/assets/images/hersteller/step2.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "bestway",
+        "name": "Bestway",
+        "slug": "bestway",
+        "productCategory": "Bestway",
+        "localThumb": "/assets/images/hersteller/bestway.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "palmako",
+        "name": "Palmako",
+        "slug": "palmako",
+        "productCategory": "Palmako",
+        "localThumb": "/assets/images/hersteller/palmako.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "swingking",
+        "name": "SwingKing",
+        "slug": "swingking",
+        "productCategory": "SwingKing",
+        "localThumb": "/assets/images/hersteller/swingking.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "enders",
+        "name": "Enders",
+        "slug": "enders",
+        "productCategory": "Enders",
+        "localThumb": "/assets/images/hersteller/enders.webp"
+    },
+    {
+        "key": "happy people",
+        "name": "Happy People",
+        "slug": "happy-people",
+        "productCategory": "Happy People",
+        "localThumb": "/assets/images/hersteller/happy-people.webp"
+    },
+    {
+        "key": "rebo",
+        "name": "REBO",
+        "slug": "rebo",
+        "productCategory": "REBO",
+        "localThumb": "/assets/images/hersteller/rebo.webp"
+    },
+    {
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
+    },
+    {
+        "key": "best freizeitmöbel",
+        "name": "Best Freizeitmöbel",
+        "slug": "best-freizeitmoebel",
+        "productCategory": "Best Freizeitmöbel",
+        "localThumb": "/assets/images/hersteller/best-freizeitmoebel.webp"
+    },
+    {
+        "key": "exit toys",
+        "name": "Exit Toys",
+        "slug": "exit-toys",
+        "productCategory": "Exit Toys",
+        "localThumb": "/assets/images/hersteller/exit-toys.webp"
+    },
+    {
+        "key": "siena garden",
+        "name": "Siena Garden",
+        "slug": "siena-garden",
+        "productCategory": "Siena Garden",
+        "localThumb": "/assets/images/hersteller/siena-garden.webp"
+    },
+    {
+        "key": "tp toys",
+        "name": "TP Toys",
+        "slug": "tp-toys",
+        "productCategory": "TP Toys",
+        "localThumb": "/assets/images/hersteller/tp-toys.webp"
+    },
+    {
+        "key": "hudora",
+        "name": "Hudora",
+        "slug": "hudora",
+        "productCategory": "Hudora",
+        "localThumb": "/assets/images/hersteller/hudora.webp"
+    },
+    {
+        "key": "akubi",
+        "name": "Akubi",
+        "slug": "akubi",
+        "productCategory": "Akubi",
+        "localThumb": "/assets/images/hersteller/akubi.webp"
+    },
+    {
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
+    },
+    {
+        "key": "cross tools",
+        "name": "Cross Tools",
+        "slug": "cross-tools",
+        "productCategory": "Cross Tools",
+        "localThumb": "/assets/images/hersteller/cross-tools.webp"
+    },
+    {
+        "key": "rothenberger industrial",
+        "name": "Rothenberger Industrial",
+        "slug": "rothenberger-industrial",
+        "productCategory": "Rothenberger Industrial",
+        "localThumb": "/assets/images/hersteller/rothenberger-industrial.webp"
     }
 ]
