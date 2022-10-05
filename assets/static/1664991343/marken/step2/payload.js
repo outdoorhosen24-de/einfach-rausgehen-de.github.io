@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/step2", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sandkasten-border-mit-deckel-step2-2942431-1.jpg":"\u002Fassets\u002Fimages\u002Fsandkasten-border-mit-deckel-step2-2942431-1.webp"}}],fetch:{},mutations:void 0});

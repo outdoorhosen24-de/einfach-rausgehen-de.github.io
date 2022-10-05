@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/siena-garden", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/siena-garden-campinghocker-comfort-anthrazit-49-cm-x-37-cm-x-47-cm-siena-garden-6076079-1.jpg":"\u002Fassets\u002Fimages\u002Fsiena-garden-campinghocker-comfort-anthrazit-49-cm-x-37-cm-x-47-cm-siena-garden-6076079-1.webp"}}],fetch:{},mutations:void 0});

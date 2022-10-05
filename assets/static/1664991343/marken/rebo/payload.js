@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/rebo", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rebo-schaukelgeruest-pelikan-mit-schaukel-nestschaukel-und-kletterwand-rebo-8327488-1.jpg":"\u002Fassets\u002Fimages\u002Frebo-schaukelgeruest-pelikan-mit-schaukel-nestschaukel-und-kletterwand-rebo-8327488-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/gartentrampoline", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/exit-trampolinplattform-m-leiter-f-rahmenhoehen-von-50-65cm-exit-toys-9840547-1.jpg":"\u002Fassets\u002Fimages\u002Fexit-trampolinplattform-m-leiter-f-rahmenhoehen-von-50-65cm-exit-toys-9840547-1.webp"}}],fetch:{},mutations:void 0});

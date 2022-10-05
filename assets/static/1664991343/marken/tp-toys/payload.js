@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/tp-toys", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/tp-toys-leiter-fuer-trampolin-infinity-44-cm-x-100-cm-tp-toys-7344526-1.jpg":"\u002Fassets\u002Fimages\u002Ftp-toys-leiter-fuer-trampolin-infinity-44-cm-x-100-cm-tp-toys-7344526-1.webp"}}],fetch:{},mutations:void 0});

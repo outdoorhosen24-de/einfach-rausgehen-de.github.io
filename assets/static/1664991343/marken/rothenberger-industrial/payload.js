@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/rothenberger-industrial", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rothenberger-camping-propanregler-konstant-50-mbar-rothenberger-industrial-5521547-1.jpg":"\u002Fassets\u002Fimages\u002Frothenberger-camping-propanregler-konstant-50-mbar-rothenberger-industrial-5521547-1.webp"}}],fetch:{},mutations:void 0});
