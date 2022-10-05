@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "einfach-rausgehen.de",
+    "hostname": "https://www.einfach-rausgehen.de/",
+    "email": "einfach-rausgehen.desurrealnetworks.io",
+    "organization": "einfach-rausgehen.de",
+    "logoText": "Einfach-rausgehen.de",
+    "title": "Freizeit, Sport & Spiel",
+    "subline": "Der Online Shop f\u00fcr Freizeit, Sport & Spiel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "5683248",
+        "6118327",
+        "1502871",
+        "8271702",
+        "5684857",
+        "1782531"
+    ],
+    "winnerProducts": [
+        "6599443",
+        "9009200",
+        "9349044"
+    ],
+    "featuredCategories": [
+        "Wasserspritzen",
+        "Sandk\u00e4sten",
+        "Trampoline",
+        "Luftpumpen",
+        "Gartenspielger\u00e4te",
+        "Trampolin-Zubeh\u00f6r"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Freizeit, Sport & Spiel",
-        "featureText": "Your featured text goes here",
+        "featureText": "Im Shop Freizeit, Sport & Spiel gibt es alles, was das Herz begehrt. Ob Sportbekleidung, Spielsachen oder Freizeitartikel - hier findet man alles, was man f\u00fcr die sch\u00f6nste Zeit des Jahres braucht.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Freizeit, Sport & Spiel: Die besten Ideen f\u00fcr die Freizeit",
+            "metaDescription": "Im Freizeit-, Sport- & Spiel-Shop findest du alles, was du f\u00fcr deine Freizeitgestaltung brauchst - von Spielzeug \u00fcber Sportartikel bis hin zu Outdoor-Aktivit\u00e4ten.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Freizeit, Sport & Spiel: Vom Alltag abtauchen und sich austoben",
+                    "text": "Freizeit, Sport und Spiel sind wichtige Aspekte des menschlichen Lebens. Sie sind nicht nur wichtig f\u00fcr die k\u00f6rperliche, sondern auch f\u00fcr die geistige und soziale Gesundheit.\n\nDie Freizeitgestaltung hat sich in den letzten Jahren stark ver\u00e4ndert. Fr\u00fcher waren die Menschen viel mehr drau\u00dfen in der Natur und haben sich k\u00f6rperlich bet\u00e4tigt. Heute sind viele Menschen eher in ihrer Freizeit online oder spielen Videospiele.\n\nDas ist nat\u00fcrlich nicht gesund und f\u00fchrt dazu, dass viele Menschen \u00fcbergewichtig sind und unter Bewegungsmangel leiden.\n\nAus diesem Grund ist es wichtig, dass man sich auch in seiner Freizeit k\u00f6rperlich bet\u00e4tigt und sich bewegt. Sport ist hierbei eine sehr gute M\u00f6glichkeit.\n\nMan kann alleine oder in einer Gruppe Sport treiben. Gemeinsam macht Sport meistens noch mehr Spa\u00df und man motiviert sich gegenseitig.\n\nAuch Spiel ist in der Freizeit wichtig. Spielen f\u00f6rdert die Kreativit\u00e4t und das Denken. Besonders f\u00fcr Kinder ist Spiel sehr wichtig, da sie so lernen die Welt zu verstehen.\n\nF\u00fcr Erwachsene ist Spiel ebenfalls wichtig, da es eine gute M\u00f6glichkeit ist sich vom Alltag zu entspannen und neue Kraft zu tanken.\n\nFreizeit, Sport und Spiel sind also wichtige Aspekte des menschlichen Lebens. Sie sollten nicht vernachl\u00e4ssigt werden, da sie sehr wichtig f\u00fcr die k\u00f6rperliche"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Freizeit, Sport & Spiel Shop",
+            "metaDescription": "Im Freizeit-, Sport- & Spiel-Shop findest du alles, was du f\u00fcr deine Freizeitgestaltung brauchst. Vom Spielzeug \u00fcber Sportartikel bis hin zu Freizeitbekleidung ist alles dabei.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Freizeit, Sport & Spiel: Hersteller",
+            "metaDescription": "Finde die besten Freizeit-, Sport- und Spiel-Hersteller auf Manufacturer.com. Vergleiche Produkte, lese Bewertungen und finde die besten Angebote.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Freizeit, Sport & Spiel: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl f\u00fcr Freizeit, Sport & Spiel. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Freizeit, Sport & Spiel: $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE: Finde die besten Angebote f\u00fcr Freizeit, Sport & Spiel. Vergleiche Preise und Produkte von verschiedenen Anbietern und kaufe bequem online.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Dein Spezialist f\u00fcr Freizeit, Sport und Spiel. Ob Outdoor, Fanartikel oder Spielwaren - bei uns findest Du alles, was Du f\u00fcr Deine Freizeitgestaltung brauchst!",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Freizeit, Sport & Spiel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Freizeit, Sport & Spiel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Freizeit, Sport & Spiel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
