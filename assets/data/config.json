@@ -51,12 +51,15 @@
             "title": "Freizeit, Sport & Spiel: Die besten Ideen für die Freizeit",
             "metaDescription": "Im Freizeit-, Sport- & Spiel-Shop findest du alles, was du für deine Freizeitgestaltung brauchst - von Spielzeug über Sportartikel bis hin zu Outdoor-Aktivitäten.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Freizeit, Sport & Spiel: Vom Alltag abtauchen und sich austoben",
-                    "text": "Freizeit, Sport und Spiel sind wichtige Aspekte des menschlichen Lebens. Sie sind nicht nur wichtig für die körperliche, sondern auch für die geistige und soziale Gesundheit.\n\nDie Freizeitgestaltung hat sich in den letzten Jahren stark verändert. Früher waren die Menschen viel mehr draußen in der Natur und haben sich körperlich betätigt. Heute sind viele Menschen eher in ihrer Freizeit online oder spielen Videospiele.\n\nDas ist natürlich nicht gesund und führt dazu, dass viele Menschen übergewichtig sind und unter Bewegungsmangel leiden.\n\nAus diesem Grund ist es wichtig, dass man sich auch in seiner Freizeit körperlich betätigt und sich bewegt. Sport ist hierbei eine sehr gute Möglichkeit.\n\nMan kann alleine oder in einer Gruppe Sport treiben. Gemeinsam macht Sport meistens noch mehr Spaß und man motiviert sich gegenseitig.\n\nAuch Spiel ist in der Freizeit wichtig. Spielen fördert die Kreativität und das Denken. Besonders für Kinder ist Spiel sehr wichtig, da sie so lernen die Welt zu verstehen.\n\nFür Erwachsene ist Spiel ebenfalls wichtig, da es eine gute Möglichkeit ist sich vom Alltag zu entspannen und neue Kraft zu tanken.\n\nFreizeit, Sport und Spiel sind also wichtige Aspekte des menschlichen Lebens. Sie sollten nicht vernachlässigt werden, da sie sehr wichtig für die körperliche"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Freizeit, Sport & Spiel: Vom Alltag abtauchen und sich austoben",
+                        "text": "Freizeit, Sport und Spiel sind wichtige Aspekte des menschlichen Lebens. Sie sind nicht nur wichtig für die körperliche, sondern auch für die geistige und soziale Gesundheit.\n\nDie Freizeitgestaltung hat sich in den letzten Jahren stark verändert. Früher waren die Menschen viel mehr draußen in der Natur und haben sich körperlich betätigt. Heute sind viele Menschen eher in ihrer Freizeit online oder spielen Videospiele.\n\nDas ist natürlich nicht gesund und führt dazu, dass viele Menschen übergewichtig sind und unter Bewegungsmangel leiden.\n\nAus diesem Grund ist es wichtig, dass man sich auch in seiner Freizeit körperlich betätigt und sich bewegt. Sport ist hierbei eine sehr gute Möglichkeit.\n\nMan kann alleine oder in einer Gruppe Sport treiben. Gemeinsam macht Sport meistens noch mehr Spaß und man motiviert sich gegenseitig.\n\nAuch Spiel ist in der Freizeit wichtig. Spielen fördert die Kreativität und das Denken. Besonders für Kinder ist Spiel sehr wichtig, da sie so lernen die Welt zu verstehen.\n\nFür Erwachsene ist Spiel ebenfalls wichtig, da es eine gute Möglichkeit ist sich vom Alltag zu entspannen und neue Kraft zu tanken.\n\nFreizeit, Sport und Spiel sind also wichtige Aspekte des menschlichen Lebens. Sie sollten nicht vernachlässigt werden, da sie sehr wichtig für die körperliche"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Freizeit, Sport & Spiel Shop",
