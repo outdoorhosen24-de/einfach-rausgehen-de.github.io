@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "einfach-rausgehen.de",
     "hostname": "https://www.einfach-rausgehen.de/",
-    "email": "einfach-rausgehen.de@surrealnetworks.io",
+    "email": "einfach-rausgehen.desurrealnetworks.io",
     "organization": "einfach-rausgehen.de",
     "logoText": "Einfach-rausgehen.de",
-    "title": "Freizeit, Sport & Spiel",
-    "subline": "Der Online Shop für Freizeit, Sport & Spiel",
+    "title": "Outdoor: Freizeit, Sport & Spiel",
+    "subline": "Der Online Shop für Freizeit, Sport & Spiel im Outdoor Bereich",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -37,44 +37,36 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
+    "checklist": "Hochwertig,Einfache Bedienung / Montage,Preis-Leistungs-Verhältnis,Lange Haltbarkeit,Kinderfreundlich",
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Freizeit, Sport & Spiel",
-        "featureText": "Im Shop Freizeit, Sport & Spiel gibt es alles, was das Herz begehrt. Ob Sportbekleidung, Spielsachen oder Freizeitartikel - hier findet man alles, was man für die schönste Zeit des Jahres braucht.",
+        "featureText": "Sieht Ihr Garten langweilig aus? Wenn Sie diese Frage mit „ja“ beantwortet haben, dann sind Sie bei uns genau richtig! Wir bieten Outdoor-Freizeitgeräte an, die Ihren Garten in ein magisches Wunderland verwandeln werden. Von Rutschen, Kletterwänden, Hängematten und Schaukeln bieten unsere Produkte stundenlange Unterhaltung für Kinder und Erwachsene gleichermaßen. Erholung, Sport und Spiel mit Garten-Spielplatzgeräten - Die beste Auswahl an Garten-Spielplatzgeräten, die es online gibt! Wir bieten ein umfangreiches Sortiment.",
         "index": {
-            "title": "Freizeit, Sport & Spiel: Die besten Ideen für die Freizeit",
-            "metaDescription": "Im Freizeit-, Sport- & Spiel-Shop findest du alles, was du für deine Freizeitgestaltung brauchst - von Spielzeug über Sportartikel bis hin zu Outdoor-Aktivitäten.",
+            "title": "Outdoor Produkte für die Freizeit, Sport & Spiel",
+            "metaDescription": "Mit unseren Produkten können Sie ihr Freizeit Erlebnis deutlich steigern. Wir bieten Produkte für Freizeit, Sport & Spiel. Trampoline, Rutschen, Sandkästen,..",
             "robots": "index, follow",
-            "seotext": {
-                "published": false,
-                "content": [
-                    {
-                        "title": "Freizeit, Sport & Spiel: Vom Alltag abtauchen und sich austoben",
-                        "text": "Freizeit, Sport und Spiel sind wichtige Aspekte des menschlichen Lebens. Sie sind nicht nur wichtig für die körperliche, sondern auch für die geistige und soziale Gesundheit.\n\nDie Freizeitgestaltung hat sich in den letzten Jahren stark verändert. Früher waren die Menschen viel mehr draußen in der Natur und haben sich körperlich betätigt. Heute sind viele Menschen eher in ihrer Freizeit online oder spielen Videospiele.\n\nDas ist natürlich nicht gesund und führt dazu, dass viele Menschen übergewichtig sind und unter Bewegungsmangel leiden.\n\nAus diesem Grund ist es wichtig, dass man sich auch in seiner Freizeit körperlich betätigt und sich bewegt. Sport ist hierbei eine sehr gute Möglichkeit.\n\nMan kann alleine oder in einer Gruppe Sport treiben. Gemeinsam macht Sport meistens noch mehr Spaß und man motiviert sich gegenseitig.\n\nAuch Spiel ist in der Freizeit wichtig. Spielen fördert die Kreativität und das Denken. Besonders für Kinder ist Spiel sehr wichtig, da sie so lernen die Welt zu verstehen.\n\nFür Erwachsene ist Spiel ebenfalls wichtig, da es eine gute Möglichkeit ist sich vom Alltag zu entspannen und neue Kraft zu tanken.\n\nFreizeit, Sport und Spiel sind also wichtige Aspekte des menschlichen Lebens. Sie sollten nicht vernachlässigt werden, da sie sehr wichtig für die körperliche"
-                    }
-                ]
-            }
+            "texts": [
+                {
+                    "title": "Freizeit, Sport & Spiel: Vom Alltag abtauchen und sich austoben",
+                    "text": "Freizeit, Sport und Spiel sind wichtige Aspekte des menschlichen Lebens. Sie sind nicht nur wichtig für die körperliche, sondern auch für die geistige und soziale Gesundheit.\n\nDie Freizeitgestaltung hat sich in den letzten Jahren stark verändert. Früher waren die Menschen viel mehr draußen in der Natur und haben sich körperlich betätigt. Heute sind viele Menschen eher in ihrer Freizeit online oder spielen Videospiele.\n\nDas ist natürlich nicht gesund und führt dazu, dass viele Menschen übergewichtig sind und unter Bewegungsmangel leiden.\n\nAus diesem Grund ist es wichtig, dass man sich auch in seiner Freizeit körperlich betätigt und sich bewegt. Sport ist hierbei eine sehr gute Möglichkeit.\n\nMan kann alleine oder in einer Gruppe Sport treiben. Gemeinsam macht Sport meistens noch mehr Spaß und man motiviert sich gegenseitig.\n\nAuch Spiel ist in der Freizeit wichtig. Spielen fördert die Kreativität und das Denken. Besonders für Kinder ist Spiel sehr wichtig, da sie so lernen die Welt zu verstehen.\n\nFür Erwachsene ist Spiel ebenfalls wichtig, da es eine gute Möglichkeit ist sich vom Alltag zu entspannen und neue Kraft zu tanken.\n\nFreizeit, Sport und Spiel sind also wichtige Aspekte des menschlichen Lebens. Sie sollten nicht vernachlässigt werden, da sie sehr wichtig für die körperliche"
+                }
+            ]
         },
         "shop": {
-            "title": "Freizeit, Sport & Spiel Shop",
-            "metaDescription": "Im Freizeit-, Sport- & Spiel-Shop findest du alles, was du für deine Freizeitgestaltung brauchst. Vom Spielzeug über Sportartikel bis hin zu Freizeitbekleidung ist alles dabei.",
+            "title": "Online Shop für Freizeit, Spiel & Spaß ",
+            "metaDescription": "In unserem Online Shop bieten wir Produkte aller Art an. Von Sandkästen, Kletterwänden und Schaukeln bieten unsere Produkte stundenlange Unterhaltung.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Freizeit, Sport & Spiel: Hersteller",
-            "metaDescription": "Finde die besten Freizeit-, Sport- und Spiel-Hersteller auf Manufacturer.com. Vergleiche Produkte, lese Bewertungen und finde die besten Angebote.",
+            "title": "Hersteller für Freizeit, Sport- und Spiele Produkten",
+            "metaDescription": "Liste aller Hersteller und Produkte für Artikel im Freizeit, Sport- und Spielbereich wie Trampoline, Sandkästen, Spielhäuser, Wasserspritzen, Gartenspielgeräte.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Freizeit, Sport & Spiel: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Auswahl für Freizeit, Sport & Spiel. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Mach dich bereit für ein bisschen Unterhaltung, denn wir haben einige tolle Angebote in unserem aktuellen $KATEGORIE-Sale gefunden!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -90,7 +82,7 @@
     },
     "categorySeo": {
         "defaultTitle": "Freizeit, Sport & Spiel: $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE: Finde die besten Angebote für Freizeit, Sport & Spiel. Vergleiche Preise und Produkte von verschiedenen Anbietern und kaufe bequem online.",
+        "defaultMetaDescription": "Kaufe jetzt eines unserer Produkte aus der $KATEGORIE und spare viel Geld in unserem Shop.  Die besten Angebote nur heute!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +108,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Dein Spezialist für Freizeit, Sport und Spiel. Ob Outdoor, Fanartikel oder Spielwaren - bei uns findest Du alles, was Du für Deine Freizeitgestaltung brauchst!",
+        "defaultTitle": "$HERSTELLER | Freizeit, Sport & Spiel Shop",
+        "defaultMetaDescription": "$HERSTELLER ist Dein Spezialist für Freizeit, Sport und Spiel. Bei uns findest Du alles, was Du für Deine Freizeitgestaltung brauchst!",
         "defaultRobots": "index, follow",
         "brands": [
             {
