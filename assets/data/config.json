@@ -37,7 +37,9 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": "Hochwertig,Einfache Bedienung / Montage,Preis-Leistungs-Verhältnis,Lange Haltbarkeit,Kinderfreundlich",
+    "checklist": [
+        "Hochwertig", "Einfache Bedienung / Montage", "Preis-Leistungs-Verhältnis", "Lange Haltbarkeit", "Kinderfreundlich"
+    ],
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Freizeit, Sport & Spiel",
@@ -46,12 +48,13 @@
             "title": "Outdoor Produkte für die Freizeit, Sport & Spiel",
             "metaDescription": "Mit unseren Produkten können Sie ihr Freizeit Erlebnis deutlich steigern. Wir bieten Produkte für Freizeit, Sport & Spiel. Trampoline, Rutschen, Sandkästen,..",
             "robots": "index, follow",
-            "texts": [
-                {
+            "seotext": {
+                "publish": false,
+                "content": [{
                     "title": "Freizeit, Sport & Spiel: Vom Alltag abtauchen und sich austoben",
                     "text": "Freizeit, Sport und Spiel sind wichtige Aspekte des menschlichen Lebens. Sie sind nicht nur wichtig für die körperliche, sondern auch für die geistige und soziale Gesundheit.\n\nDie Freizeitgestaltung hat sich in den letzten Jahren stark verändert. Früher waren die Menschen viel mehr draußen in der Natur und haben sich körperlich betätigt. Heute sind viele Menschen eher in ihrer Freizeit online oder spielen Videospiele.\n\nDas ist natürlich nicht gesund und führt dazu, dass viele Menschen übergewichtig sind und unter Bewegungsmangel leiden.\n\nAus diesem Grund ist es wichtig, dass man sich auch in seiner Freizeit körperlich betätigt und sich bewegt. Sport ist hierbei eine sehr gute Möglichkeit.\n\nMan kann alleine oder in einer Gruppe Sport treiben. Gemeinsam macht Sport meistens noch mehr Spaß und man motiviert sich gegenseitig.\n\nAuch Spiel ist in der Freizeit wichtig. Spielen fördert die Kreativität und das Denken. Besonders für Kinder ist Spiel sehr wichtig, da sie so lernen die Welt zu verstehen.\n\nFür Erwachsene ist Spiel ebenfalls wichtig, da es eine gute Möglichkeit ist sich vom Alltag zu entspannen und neue Kraft zu tanken.\n\nFreizeit, Sport und Spiel sind also wichtige Aspekte des menschlichen Lebens. Sie sollten nicht vernachlässigt werden, da sie sehr wichtig für die körperliche"
-                }
-            ]
+                }]
+            }
         },
         "shop": {
             "title": "Online Shop für Freizeit, Spiel & Spaß ",
@@ -68,63 +71,55 @@
         "defaultTitle": "$PRODUKT günstig bestellen",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Mach dich bereit für ein bisschen Unterhaltung, denn wir haben einige tolle Angebote in unserem aktuellen $KATEGORIE-Sale gefunden!",
         "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "Freizeit, Sport & Spiel: $KATEGORIE",
         "defaultMetaDescription": "Kaufe jetzt eines unserer Produkte aus der $KATEGORIE und spare viel Geld in unserem Shop.  Die besten Angebote nur heute!",
         "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
+        "categories": [{
+            "key": "sporthosen",
+            "slug": "sporthosen",
+            "name": "Sporthosen",
+            "seo": {
+                "title": "Sporthosen günstig kaufen",
+                "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                "robots": "index, follow",
+                "texts": [{
+                        "title": "Title of a SEO Text for sporthosen",
+                        "text": "Text of a SEO Text for sporthosen"
+                    },
+                    {
+                        "title": "New title for sporthosen",
+                        "text": "new text for sporthosen"
+                    }
+                ]
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "$HERSTELLER | Freizeit, Sport & Spiel Shop",
         "defaultMetaDescription": "$HERSTELLER ist Dein Spezialist für Freizeit, Sport und Spiel. Bei uns findest Du alles, was Du für Deine Freizeitgestaltung brauchst!",
         "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
+        "brands": [{
+            "key": "palm",
+            "name": "Palm",
+            "seo": {
+                "title": "Produkte von Palm günstig kaufen",
+                "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Start",
             "linkTo": "/",
             "linkTitle": "Freizeit, Sport & Spiel",
