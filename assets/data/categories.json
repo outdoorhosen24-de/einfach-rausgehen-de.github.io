@@ -2,14 +2,14 @@
     {
         "key": "gartenspielgeräte",
         "name": "Gartenspielgeräte",
-        "slug": "gartenspielgerate",
+        "slug": "gartenspielgeraete",
         "productCategory": "Gartenspielgeräte",
         "subCategories": []
     },
     {
         "key": "sandkästen",
         "name": "Sandkästen",
-        "slug": "sandkasten",
+        "slug": "sandkaesten",
         "productCategory": "Sandkästen",
         "subCategories": []
     },
@@ -23,14 +23,14 @@
     {
         "key": "sicherheit für bootstechnik",
         "name": "Sicherheit für Bootstechnik",
-        "slug": "sicherheit-fur-bootstechnik",
+        "slug": "sicherheit-fuer-bootstechnik",
         "productCategory": "Sicherheit für Bootstechnik",
         "subCategories": []
     },
     {
         "key": "camping & zubehör",
         "name": "Camping & Zubehör",
-        "slug": "camping-zubehor",
+        "slug": "camping-zubehoer",
         "productCategory": "Camping & Zubehör",
         "subCategories": []
     },
@@ -44,21 +44,21 @@
     {
         "key": "spielhäuser",
         "name": "Spielhäuser",
-        "slug": "spielhauser",
+        "slug": "spielhaeuser",
         "productCategory": "Spielhäuser",
         "subCategories": []
     },
     {
         "key": "weitere spielgeräte",
         "name": "Weitere Spielgeräte",
-        "slug": "weitere-spielgerate",
+        "slug": "weitere-spielgeraete",
         "productCategory": "Weitere Spielgeräte",
         "subCategories": []
     },
     {
         "key": "spieltürme & spielanlagen",
         "name": "Spieltürme & Spielanlagen",
-        "slug": "spielturme-spielanlagen",
+        "slug": "spieltuerme-spielanlagen",
         "productCategory": "Spieltürme & Spielanlagen",
         "subCategories": []
     },
@@ -86,7 +86,7 @@
     {
         "key": "trampolin-zubehör",
         "name": "Trampolin-Zubehör",
-        "slug": "trampolin-zubehor",
+        "slug": "trampolin-zubehoer",
         "productCategory": "Trampolin-Zubehör",
         "subCategories": []
     },
