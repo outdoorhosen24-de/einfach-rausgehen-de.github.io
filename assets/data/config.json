@@ -53,7 +53,7 @@
             "metaDescription": "Mit unseren Produkten können Sie ihr Freizeit Erlebnis deutlich steigern. Wir bieten Produkte für Freizeit, Sport & Spiel. Trampoline, Rutschen, Sandkästen,..",
             "robots": "index, follow",
             "seotext": {
-                "publish": false,
+                "publish": true,
                 "content": [
                     {
                         "title": "Willkommen bei Einfach-Rausgehen.de!",
