@@ -1,237 +1,270 @@
 {
-    "configIsReady": true,
-    "domain": "einfach-rausgehen.de",
-    "hostname": "https://www.einfach-rausgehen.de/",
-    "email": "einfach-rausgehen.desurrealnetworks.io",
-    "organization": "einfach-rausgehen.de",
-    "logoText": "Einfach-rausgehen.de",
-    "title": "Outdoor: Freizeit, Sport & Spiel",
-    "subline": "Der Online Shop für Freizeit, Sport & Spiel im Outdoor Bereich",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "affiliate": {
-        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  "configIsReady": true,
+  "domain": "einfach-rausgehen.de",
+  "hostname": "https://www.einfach-rausgehen.de/",
+  "email": "einfach-rausgehen.desurrealnetworks.io",
+  "organization": "einfach-rausgehen.de",
+  "logoText": "Einfach-rausgehen.de",
+  "title": "Outdoor: Freizeit, Sport & Spiel",
+  "subline": "Der Online Shop für Freizeit, Sport & Spiel im Outdoor Bereich",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  },
+  "popularProducts": [
+    "5683248",
+    "6118327",
+    "1502871",
+    "8271702",
+    "5684857",
+    "1782531"
+  ],
+  "winnerProducts": [
+    "6599443",
+    "9009200",
+    "9349044"
+  ],
+  "featuredCategories": [
+    "Wasserspritzen",
+    "Sandkästen",
+    "Trampoline",
+    "Luftpumpen",
+    "Gartenspielgeräte",
+    "Trampolin-Zubehör"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Hochwertig",
+    "Einfache Bedienung / Montage",
+    "Preis-Leistungs-Verhältnis",
+    "Lange Haltbarkeit",
+    "Kinderfreundlich"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Freizeit, Sport & Spiel",
+    "featureText": "Sieht Ihr Garten langweilig aus? Wenn Sie diese Frage mit „ja“ beantwortet haben, dann sind Sie bei uns genau richtig! Wir bieten Outdoor-Freizeitgeräte an, die Ihren Garten in ein magisches Wunderland verwandeln werden. Von Rutschen, Kletterwänden, Hängematten und Schaukeln bieten unsere Produkte stundenlange Unterhaltung für Kinder und Erwachsene gleichermaßen. Erholung, Sport und Spiel mit Garten-Spielplatzgeräten - Die beste Auswahl an Garten-Spielplatzgeräten, die es online gibt! Wir bieten ein umfangreiches Sortiment.",
+    "index": {
+      "title": "Outdoor Produkte für die Freizeit, Sport & Spiel",
+      "metaDescription": "Mit unseren Produkten können Sie ihr Freizeit Erlebnis deutlich steigern. Wir bieten Produkte für Freizeit, Sport & Spiel. Trampoline, Rutschen, Sandkästen,..",
+      "robots": "index, follow",
+      "seotext": {
+        "publish": true,
+        "content": [
+          {
+            "title": "Willkommen bei Einfach-Rausgehen.de!",
+            "text": "Einfach-Rausgehen.de ist Ihre erste Anlaufstelle, wenn es um Freizeit, Sport und Spiel geht. Bei uns finden Sie eine große Auswahl an Produkten für Ihre Freizeitaktivitäten im Freien. Ob Sie auf der Suche nach Gartenspielgeräten, Sandkästen, Bootssportzubehör oder Campingausrüstung sind, bei uns werden Sie fündig. Wir bieten Ihnen eine breite Palette an Produkten, die Ihnen und Ihrer Familie jede Menge Spaß und Unterhaltung im Freien bieten werden. Von Spielhäusern und Spieltürmen über Luftmatratzen und Trampoline bis hin zu Wasserspielzeug und Luftpumpen - bei uns finden Sie alles, was das Herz begehrt. Unsere Kategorien sind übersichtlich und einfach zu navigieren, so dass Sie schnell und einfach das finden, wonach Sie suchen. Außerdem bieten wir Ihnen eine große Auswahl an Zubehör und Ersatzteilen für Ihre Produkte, damit Sie lange Freude daran haben. Wir bei Einfach-Rausgehen.de sind davon überzeugt, dass Sie und Ihre Familie eine unvergessliche Zeit im Freien verbringen werden, wenn Sie sich für eines unserer Produkte entscheiden. Schauen Sie sich jetzt unser Angebot an und finden Sie das perfekte Freizeitspielzeug für Ihre Bedürfnisse. Wir freuen uns darauf, Ihnen zu helfen!"
+          },
+          {
+            "title": "Gartenspielgeräte",
+            "text": "Erleben Sie unbeschwerte Freizeitstunden mit unseren hochwertigen <a href=\"/kategorie/gartenspielgeraete/\" title=\"Gartenspielgeräte\">Gartenspielgeräte</a>n. Von Schaukeln über Tischtennisplatten bis hin zu Trampolinen – hier finden Sie alles, was das Herz begehrt. Unsere Produkte sind robust und langlebig, sodass Sie lange Freude daran haben werden. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten!"
+          },
+          {
+            "title": "Sandkästen",
+            "text": "Lassen Sie Ihre Kinder in der Natur spielen und entdecken mit unseren hochwertigen <a href=\"/kategorie/sandkaesten/\" title=\"Sandkästen\">Sandkästen</a>. Ob für den heimischen Garten oder den öffentlichen Spielplatz – wir bieten Ihnen eine große Auswahl an verschiedenen Größen und Formen. Unsere Sandkästen sind robust und pflegeleicht, damit Sie lange Freude daran haben. Entdecken Sie jetzt unser Sortiment und bereiten Sie Ihren Kindern unvergessliche Spielstunden im Freien!"
+          },
+          {
+            "title": "Bootssport",
+            "text": "Erleben Sie unvergessliche Abenteuer auf dem Wasser mit unseren hochwertigen Produkten für den <a href=\"/kategorie/bootssport/\" title=\"Bootssport\">Bootssport</a>. Von Angelausrüstungen über Kanus bis hin zu Tauchausrüstungen – wir haben alles, was Sie für Ihre nächste Tour brauchen. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihre neuen Lieblingsausrüstungen für den Bootssport!"
+          },
+          {
+            "title": "Sicherheit für Bootstechnik",
+            "text": "Sicherheit geht bei uns an erster Stelle. Deshalb bieten wir Ihnen eine große Auswahl an hochwertigen Produkten für die Sicherheit in der Bootstechnik. Von Rettungswesten über Feuerlöscher bis hin zu Notfallausrüstungen – wir haben alles, was Sie für eine sichere Bootsfahrt benötigen. Unsere Produkte sind robust und langlebig, damit Sie jederzeit auf die bestmögliche Sicherheit vertrauen können. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich bestens auf Ihre nächste Bootsfahrt vor."
+          },
+          {
+            "title": "Camping & Zubehör",
+            "text": "Erleben Sie unbeschwerte Campingabenteuer mit unserem hochwertigen Camping-Zubehör. Von Zelten über Campingmöbel bis hin zu Küchenausrüstungen – wir bieten Ihnen alles, was Sie für Ihren nächsten Campingausflug brauchen. Unsere Produkte sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingszubehör für das Camping."
+          },
+          {
+            "title": "Rutschen & Schaukeln",
+            "text": "Lassen Sie Ihre Kinder im eigenen Garten spielen und entdecken mit unseren hochwertigen Rutschen und Schaukeln. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Ob für den heimischen Garten oder den öffentlichen Spielplatz – wir bieten Ihnen eine große Auswahl an verschiedenen Größen und Formen. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie Ihren Kindern unvergessliche Spielstunden im Freien."
+          },
+          {
+            "title": "Spielhäuser",
+            "text": "Bereiten Sie Ihren Kindern unvergessliche Spielstunden im eigenen Garten mit unseren hochwertigen <a href=\"/kategorie/spielhaeuser/\" title=\"Spielhäuser\">Spielhäuser</a>n. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielhaus für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie Ihren Kindern ein unvergessliches Spielerlebnis im Freien."
+          },
+          {
+            "title": "Weitere Spielgeräte",
+            "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen Spielgeräten. Von Schaukeln über Tischtennisplatten bis hin zu Trampolinen – hier finden Sie alles, was das Herz begehrt. Unsere Produkte sind robust und langlebig, sodass Sie lange Freude daran haben werden. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten."
+          },
+          {
+            "title": "Spieltürme & Spielanlagen",
+            "text": "Lassen Sie Ihre Kinder im eigenen Garten spielen und entdecken mit unseren hochwertigen Spieltürmen und Spielanlagen. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie Ihren Kindern unvergessliche Spielstunden im Freien."
+          },
+          {
+            "title": "Wasserspielzeug",
+            "text": "Erleben Sie unbeschwerte Sommertage am Strand oder im Pool mit unserem hochwertigen <a href=\"/kategorie/wasserspielzeug/\" title=\"Wasserspielzeug\">Wasserspielzeug</a>. Von Schwimmringen über Planschbecken bis hin zu Luftmatratzen – wir bieten Ihnen eine große Auswahl an verschiedenen Produkten. Unsere Wasserspielzeuge sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für das Wasser."
+          },
+          {
+            "title": "Luftmatratzen",
+            "text": "Erleben Sie unbeschwerte Tage am Strand oder im Pool mit unseren hochwertigen <a href=\"/kategorie/luftmatratzen/\" title=\"Luftmatratzen\">Luftmatratzen</a>. Wir bieten Ihnen eine große Auswahl an verschiedenen Größen und Formen. Unsere Luftmatratzen sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihre neue Lieblingsluftmatratze für das Wasser."
+          },
+          {
+            "title": "Trampoline",
+            "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen <a href=\"/kategorie/trampoline/\" title=\"Trampoline\">Trampoline</a>n. Unsere Trampoline sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich unvergessliche Spielstunden im Freien."
+          },
+          {
+            "title": "Trampolin-Zubehör",
+            "text": "Erleben Sie noch mehr Freude an Ihrem Trampolin mit unserem hochwertigen <a href=\"/kategorie/trampolin-zubehoer/\" title=\"Trampolin-Zubehör\">Trampolin-Zubehör</a>. Von Schutznetzen über Sprungmatten bis hin zu Leitern – wir bieten Ihnen alles, was Sie für Ihr Trampolin benötigen. Unsere Zubehörteile sind robust und langlebig, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingszubehör für Ihr Trampolin."
+          },
+          {
+            "title": "Gartentrampoline",
+            "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen <a href=\"/kategorie/gartentrampoline/\" title=\"Gartentrampoline\">Gartentrampoline</a>n. Unsere Trampoline sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich unvergessliche Spielstunden im Freien."
+          },
+          {
+            "title": "Spiel & Spaß",
+            "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen Produkten für <a href=\"/kategorie/spiel-spass/\" title=\"Spiel & Spass\">Spiel & Spass</a>. Von Trampolinen über Gartenspielgeräte bis hin zu Spielhäusern – wir bieten Ihnen eine große Auswahl an verschiedenen Produkten. Unsere Spielzeuge sind robust und langlebig, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten."
+          },
+          {
+            "title": "Luftpumpen",
+            "text": "Erleben Sie unbeschwerte Freizeitstunden mit unseren hochwertigen <a href=\"/kategorie/luftpumpen/\" title=\"Luftpumpen\">Luftpumpen</a>. Unsere Luftpumpen sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihre neue Lieblingsluftpumpe. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich auf unvergessliche Spielstunden vor."
+          },
+          {
+            "title": "Wasserspritzen",
+            "text": "Erleben Sie unbeschwerte Sommertage am Strand oder im Pool mit unseren hochwertigen Wasserspritzspielzeugen. Wir bieten Ihnen eine große Auswahl an verschiedenen Produkten. Unsere Wasserspritzspielzeuge sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für das Wasser."
+          }
+        ],
+        "published": true
+      }
     },
-    "popularProducts": [
-        "5683248",
-        "6118327",
-        "1502871",
-        "8271702",
-        "5684857",
-        "1782531"
-    ],
-    "winnerProducts": [
-        "6599443",
-        "9009200",
-        "9349044"
-    ],
-    "featuredCategories": [
-        "Wasserspritzen",
-        "Sandkästen",
-        "Trampoline",
-        "Luftpumpen",
-        "Gartenspielgeräte",
-        "Trampolin-Zubehör"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Hochwertig",
-        "Einfache Bedienung / Montage",
-        "Preis-Leistungs-Verhältnis",
-        "Lange Haltbarkeit",
-        "Kinderfreundlich"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Freizeit, Sport & Spiel",
-        "featureText": "Sieht Ihr Garten langweilig aus? Wenn Sie diese Frage mit „ja“ beantwortet haben, dann sind Sie bei uns genau richtig! Wir bieten Outdoor-Freizeitgeräte an, die Ihren Garten in ein magisches Wunderland verwandeln werden. Von Rutschen, Kletterwänden, Hängematten und Schaukeln bieten unsere Produkte stundenlange Unterhaltung für Kinder und Erwachsene gleichermaßen. Erholung, Sport und Spiel mit Garten-Spielplatzgeräten - Die beste Auswahl an Garten-Spielplatzgeräten, die es online gibt! Wir bieten ein umfangreiches Sortiment.",
-        "index": {
-            "title": "Outdoor Produkte für die Freizeit, Sport & Spiel",
-            "metaDescription": "Mit unseren Produkten können Sie ihr Freizeit Erlebnis deutlich steigern. Wir bieten Produkte für Freizeit, Sport & Spiel. Trampoline, Rutschen, Sandkästen,..",
-            "robots": "index, follow",
-            "seotext": {
-                "publish": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Einfach-Rausgehen.de!",
-                        "text": "Einfach-Rausgehen.de ist Ihre erste Anlaufstelle, wenn es um Freizeit, Sport und Spiel geht. Bei uns finden Sie eine große Auswahl an Produkten für Ihre Freizeitaktivitäten im Freien. Ob Sie auf der Suche nach Gartenspielgeräten, Sandkästen, Bootssportzubehör oder Campingausrüstung sind, bei uns werden Sie fündig. Wir bieten Ihnen eine breite Palette an Produkten, die Ihnen und Ihrer Familie jede Menge Spaß und Unterhaltung im Freien bieten werden. Von Spielhäusern und Spieltürmen über Luftmatratzen und Trampoline bis hin zu Wasserspielzeug und Luftpumpen - bei uns finden Sie alles, was das Herz begehrt. Unsere Kategorien sind übersichtlich und einfach zu navigieren, so dass Sie schnell und einfach das finden, wonach Sie suchen. Außerdem bieten wir Ihnen eine große Auswahl an Zubehör und Ersatzteilen für Ihre Produkte, damit Sie lange Freude daran haben. Wir bei Einfach-Rausgehen.de sind davon überzeugt, dass Sie und Ihre Familie eine unvergessliche Zeit im Freien verbringen werden, wenn Sie sich für eines unserer Produkte entscheiden. Schauen Sie sich jetzt unser Angebot an und finden Sie das perfekte Freizeitspielzeug für Ihre Bedürfnisse. Wir freuen uns darauf, Ihnen zu helfen!"
-                    },
-                    {
-                        "title": "Gartenspielgeräte",
-                        "text": "Erleben Sie unbeschwerte Freizeitstunden mit unseren hochwertigen <a href=\"/kategorie/gartenspielgeraete/\" title=\"Gartenspielgeräte\">Gartenspielgeräte</a>n. Von Schaukeln über Tischtennisplatten bis hin zu Trampolinen – hier finden Sie alles, was das Herz begehrt. Unsere Produkte sind robust und langlebig, sodass Sie lange Freude daran haben werden. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten!"
-                    },
-                    {
-                        "title": "Sandkästen",
-                        "text": "Lassen Sie Ihre Kinder in der Natur spielen und entdecken mit unseren hochwertigen <a href=\"/kategorie/sandkaesten/\" title=\"Sandkästen\">Sandkästen</a>. Ob für den heimischen Garten oder den öffentlichen Spielplatz – wir bieten Ihnen eine große Auswahl an verschiedenen Größen und Formen. Unsere Sandkästen sind robust und pflegeleicht, damit Sie lange Freude daran haben. Entdecken Sie jetzt unser Sortiment und bereiten Sie Ihren Kindern unvergessliche Spielstunden im Freien!"
-                    },
-                    {
-                        "title": "Bootssport",
-                        "text": "Erleben Sie unvergessliche Abenteuer auf dem Wasser mit unseren hochwertigen Produkten für den <a href=\"/kategorie/bootssport/\" title=\"Bootssport\">Bootssport</a>. Von Angelausrüstungen über Kanus bis hin zu Tauchausrüstungen – wir haben alles, was Sie für Ihre nächste Tour brauchen. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihre neuen Lieblingsausrüstungen für den Bootssport!"
-                    },
-                    {
-                        "title": "Sicherheit für Bootstechnik",
-                        "text": "Sicherheit geht bei uns an erster Stelle. Deshalb bieten wir Ihnen eine große Auswahl an hochwertigen Produkten für die Sicherheit in der Bootstechnik. Von Rettungswesten über Feuerlöscher bis hin zu Notfallausrüstungen – wir haben alles, was Sie für eine sichere Bootsfahrt benötigen. Unsere Produkte sind robust und langlebig, damit Sie jederzeit auf die bestmögliche Sicherheit vertrauen können. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich bestens auf Ihre nächste Bootsfahrt vor."
-                    },
-                    {
-                        "title": "Camping & Zubehör",
-                        "text": "Erleben Sie unbeschwerte Campingabenteuer mit unserem hochwertigen Camping-Zubehör. Von Zelten über Campingmöbel bis hin zu Küchenausrüstungen – wir bieten Ihnen alles, was Sie für Ihren nächsten Campingausflug brauchen. Unsere Produkte sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingszubehör für das Camping."
-                    },
-                    {
-                        "title": "Rutschen & Schaukeln",
-                        "text": "Lassen Sie Ihre Kinder im eigenen Garten spielen und entdecken mit unseren hochwertigen Rutschen und Schaukeln. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Ob für den heimischen Garten oder den öffentlichen Spielplatz – wir bieten Ihnen eine große Auswahl an verschiedenen Größen und Formen. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie Ihren Kindern unvergessliche Spielstunden im Freien."
-                    },
-                    {
-                        "title": "Spielhäuser",
-                        "text": "Bereiten Sie Ihren Kindern unvergessliche Spielstunden im eigenen Garten mit unseren hochwertigen <a href=\"/kategorie/spielhaeuser/\" title=\"Spielhäuser\">Spielhäuser</a>n. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielhaus für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie Ihren Kindern ein unvergessliches Spielerlebnis im Freien."
-                    },
-                    {
-                        "title": "Weitere Spielgeräte",
-                        "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen Spielgeräten. Von Schaukeln über Tischtennisplatten bis hin zu Trampolinen – hier finden Sie alles, was das Herz begehrt. Unsere Produkte sind robust und langlebig, sodass Sie lange Freude daran haben werden. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten."
-                    },
-                    {
-                        "title": "Spieltürme & Spielanlagen",
-                        "text": "Lassen Sie Ihre Kinder im eigenen Garten spielen und entdecken mit unseren hochwertigen Spieltürmen und Spielanlagen. Unsere Produkte sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie Ihren Kindern unvergessliche Spielstunden im Freien."
-                    },
-                    {
-                        "title": "Wasserspielzeug",
-                        "text": "Erleben Sie unbeschwerte Sommertage am Strand oder im Pool mit unserem hochwertigen <a href=\"/kategorie/wasserspielzeug/\" title=\"Wasserspielzeug\">Wasserspielzeug</a>. Von Schwimmringen über Planschbecken bis hin zu Luftmatratzen – wir bieten Ihnen eine große Auswahl an verschiedenen Produkten. Unsere Wasserspielzeuge sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für das Wasser."
-                    },
-                    {
-                        "title": "Luftmatratzen",
-                        "text": "Erleben Sie unbeschwerte Tage am Strand oder im Pool mit unseren hochwertigen <a href=\"/kategorie/luftmatratzen/\" title=\"Luftmatratzen\">Luftmatratzen</a>. Wir bieten Ihnen eine große Auswahl an verschiedenen Größen und Formen. Unsere Luftmatratzen sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihre neue Lieblingsluftmatratze für das Wasser."
-                    },
-                    {
-                        "title": "Trampoline",
-                        "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen <a href=\"/kategorie/trampoline/\" title=\"Trampoline\">Trampoline</a>n. Unsere Trampoline sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich unvergessliche Spielstunden im Freien."
-                    },
-                    {
-                        "title": "Trampolin-Zubehör",
-                        "text": "Erleben Sie noch mehr Freude an Ihrem Trampolin mit unserem hochwertigen <a href=\"/kategorie/trampolin-zubehoer/\" title=\"Trampolin-Zubehör\">Trampolin-Zubehör</a>. Von Schutznetzen über Sprungmatten bis hin zu Leitern – wir bieten Ihnen alles, was Sie für Ihr Trampolin benötigen. Unsere Zubehörteile sind robust und langlebig, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingszubehör für Ihr Trampolin."
-                    },
-                    {
-                        "title": "Gartentrampoline",
-                        "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen <a href=\"/kategorie/gartentrampoline/\" title=\"Gartentrampoline\">Gartentrampoline</a>n. Unsere Trampoline sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich unvergessliche Spielstunden im Freien."
-                    },
-                    {
-                        "title": "Spiel & Spaß",
-                        "text": "Erleben Sie unbeschwerte Freizeitstunden im eigenen Garten mit unseren hochwertigen Produkten für <a href=\"/kategorie/spiel-spass/\" title=\"Spiel & Spass\">Spiel & Spass</a>. Von Trampolinen über Gartenspielgeräte bis hin zu Spielhäusern – wir bieten Ihnen eine große Auswahl an verschiedenen Produkten. Unsere Spielzeuge sind robust und langlebig, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für den Garten."
-                    },
-                    {
-                        "title": "Luftpumpen",
-                        "text": "Erleben Sie unbeschwerte Freizeitstunden mit unseren hochwertigen <a href=\"/kategorie/luftpumpen/\" title=\"Luftpumpen\">Luftpumpen</a>. Unsere Luftpumpen sind robust und langlebig, damit Sie lange Freude daran haben. Wählen Sie aus verschiedenen Größen und Formen und entdecken Sie Ihre neue Lieblingsluftpumpe. Stöbern Sie jetzt durch unser Sortiment und bereiten Sie sich auf unvergessliche Spielstunden vor."
-                    },
-                    {
-                        "title": "Wasserspritzen",
-                        "text": "Erleben Sie unbeschwerte Sommertage am Strand oder im Pool mit unseren hochwertigen Wasserspritzspielzeugen. Wir bieten Ihnen eine große Auswahl an verschiedenen Produkten. Unsere Wasserspritzspielzeuge sind robust und pflegeleicht, damit Sie lange Freude daran haben. Stöbern Sie jetzt durch unser Sortiment und entdecken Sie Ihr neues Lieblingsspielzeug für das Wasser."
-                    }
-                ],
-                "published": true
-            }
-        },
-        "shop": {
-            "title": "Online Shop für Freizeit, Spiel & Spaß ",
-            "metaDescription": "In unserem Online Shop bieten wir Produkte aller Art an. Von Sandkästen, Kletterwänden und Schaukeln bieten unsere Produkte stundenlange Unterhaltung.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Hersteller für Freizeit, Sport- und Spiele Produkten",
-            "metaDescription": "Liste aller Hersteller und Produkte für Artikel im Freizeit, Sport- und Spielbereich wie Trampoline, Sandkästen, Spielhäuser, Wasserspritzen, Gartenspielgeräte.",
-            "robots": "index, follow"
-        }
+    "shop": {
+      "title": "Online Shop für Freizeit, Spiel & Spaß ",
+      "metaDescription": "In unserem Online Shop bieten wir Produkte aller Art an. Von Sandkästen, Kletterwänden und Schaukeln bieten unsere Produkte stundenlange Unterhaltung.",
+      "robots": "index, follow"
     },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT günstig bestellen",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Mach dich bereit für ein bisschen Unterhaltung, denn wir haben einige tolle Angebote in unserem aktuellen $KATEGORIE-Sale gefunden!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "categorySeo": {
-        "defaultTitle": "Freizeit, Sport & Spiel: $KATEGORIE",
-        "defaultMetaDescription": "Kaufe jetzt eines unserer Produkte aus der $KATEGORIE und spare viel Geld in unserem Shop.  Die besten Angebote nur heute!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
-    },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Freizeit, Sport & Spiel Shop",
-        "defaultMetaDescription": "$HERSTELLER ist Dein Spezialist für Freizeit, Sport und Spiel. Bei uns findest Du alles, was Du für Deine Freizeitgestaltung brauchst!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Freizeit, Sport & Spiel",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Freizeit, Sport & Spiel Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Freizeit, Sport & Spiel Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Hersteller für Freizeit, Sport- und Spiele Produkten",
+      "metaDescription": "Liste aller Hersteller und Produkte für Artikel im Freizeit, Sport- und Spielbereich wie Trampoline, Sandkästen, Spielhäuser, Wasserspritzen, Gartenspielgeräte.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT günstig bestellen",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Mach dich bereit für ein bisschen Unterhaltung, denn wir haben einige tolle Angebote in unserem aktuellen $KATEGORIE-Sale gefunden!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "6599443",
+        "seo": {
+          "texts": [
+            {
+              "title": "Happy People Schaumstoff Mini-Wasserpistole: Das perfekte Wasserspielzeug",
+              "text": "<p class=\"justify\">Die Happy People Schaumstoff Mini-Wasserpistole ist das ultimative Wasserspielzeug für heiße Sommertage und garantiert stundenlangen Spielspaß! Hergestellt von der renommierten Marke Happy People, begeistert die Mini-Wasserpistole mit ihrem schnellen Nachfüllen, einfacher Handhabung und einer Schussweite von bis zu 7 Metern. Besonders beeindruckend ist, dass kein Pumpen zum Druckaufbau mehr notwendig ist.</p><p class=\"justify\">Dank ihres weltweiten Patents erfüllt die Happy People Schaumstoff Mini-Wasserpistole einen hohen Qualitätsstandard, was sie zu einem langlebigen und robusten Begleiter für Wasserschlachten macht. Mit einer Länge von nur 17 cm ist diese Mini-Wasserpistole der ideale Begleiter für unterwegs, leicht und kompakt, damit Kinder sie problemlos bei ihren Wasserspielen tragen können. Zudem schwimmt die Wasserkanone auf dem Wasser und eignet sich somit perfekt für den Einsatz im Pool oder am Strand.</p><p class=\"justify\">Wichtig ist, dass die Happy People Schaumstoff Mini-Wasserpistole nur mit sauberem, klarem Leitungswasser befüllt wird und keine anderen Flüssigkeiten verwendet werden. Um das Spielzeug in einwandfreiem Zustand zu erhalten, sollte kein Wasser in der Pistole gelassen werden, wenn sie nicht in Gebrauch ist. Kinder unter drei Jahren sollten dieses Wasserspielzeug nicht verwenden, und es sollte stets unter Aufsicht von Erwachsenen gespielt werden. Bei der Verwendung ist darauf zu achten, nicht auf Augen oder Gesicht zu zielen.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 5 Sternen und über 432 Bewertungen sind sich viele Kunden einig: Die Happy People Schaumstoff Mini-Wasserpistole ist ein fantastisches Wasserspielzeug für unvergesslichen Spielspaß an warmen Tagen. Lassen Sie Ihre Kinder das ultimative Wasserabenteuer erleben und bieten Sie ihnen mit dieser Mini-Wasserpistole stundenlange Freude an der frischen Luft und im kühlen Nass!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9009200",
+        "seo": {
+          "texts": [
+            {
+              "title": "Sandkasten Komplett-Bausatz Fichtenholz 120 cm x 120 cm",
+              "text": "<p class=\"justify\">Der Sonstige Sandkasten Komplett-Bausatz Fichtenholz 120 cm x 120 cm bietet Ihren Kindern endlosen Spielspaß im Freien. Er ist aus hochwertigem Fichtenholz gefertigt, das nicht nur umweltfreundlich, sondern auch stabil, witterungsbeständig und langlebig ist. Der Sandkasten ist ein ideales Spielgerät für den Garten und lässt die Fantasie Ihrer Kinder aufleben.</p><p class=\"justify\">Fichtenholz ist bekannt für seine schnelle Trocknung und geringe Anfälligkeit für Rissbildung. Dies macht den Sandkasten sicher und angenehm für Ihre Kinder beim Spielen. Der Sandkasten bietet ausreichend Platz für ca. 0,25 m³ Spielsand (nicht im Lieferumfang enthalten). So können Ihre Kinder Sandkuchen backen, Sandburgen bauen oder Straßen für ihre Spielzeugautos anlegen.</p><p class=\"justify\">Zum Komplett-Bausatz gehört auch ein praktischer Deckel, der den Sandkasten nach dem Spielen abdeckt und so den Inhalt vor Witterung und Verschmutzung schützt. Damit bleibt der Spielsand sauber und hygienisch, sodass Ihre Kinder unbekümmert darin spielen können. Der Sandkasten ist außerdem leicht aufzubauen und passt dank seiner Größe von 120 cm x 120 cm in nahezu jeden Garten. </p><p class=\"justify\">Der Sandkasten ist in der Kategorie \"Sandkästen\" einzuordnen und eignet sich perfekt für den Bereich Garten & Freizeit, Freizeit, Sport & Spiel sowie Gartenspielgeräte. Er ist ein großartiges Geschenk für Ihre Kinder, das ihnen viel Freude und kreatives Spielen ermöglicht. Gönnen Sie ihnen viele schöne Stunden im Freien mit diesem erstklassigen Sandkasten Komplett-Bausatz Fichtenholz 120 cm x 120 cm.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9349044",
+        "seo": {
+          "texts": [
+            {
+              "title": "Faltbarer Bollerwagen mit Dach Grau von Sonstige",
+              "text": "<p class=\"justify\">Der faltbare Bollerwagen mit Dach Grau ist ein praktischer und vielseitiger Begleiter für Outdoor-Aktivitäten, Camping-Ausflüge und Gartenarbeiten. Hergestellt von der Marke Sonstige unter der SKU 9349044 und der GTIN13 4048124504017, gehört dieses Produkt zur Kategorie Camping & Zubehör. Der Bollerwagen ist ideal für den Transport von Lasten und Gegenständen bis zu 70 kg, was ihn zu einem unverzichtbaren Helfer für zahlreiche Anlässe macht.</p><p class=\"justify\">Dank seiner faltbaren Konstruktion aus Metallrohren und wasserabweisendem Polyestergewebe bietet der Bollerwagen eine platzsparende Lagerung und einfachen Transport. Das graue Design und das Dach schützen Ihre Gegenstände nicht nur vor Sonne und Regen, sondern verleihen dem Wagen auch eine stilvolle Optik. Die Räder des Bollerwagens sind um 360 Grad drehbar, wodurch er sehr wendig und leicht zu manövrieren ist.</p><p class=\"justify\">Egal, ob Sie ein sonniges Picknick im Park genießen oder Ihre Campingausrüstung zum Zeltplatz bringen möchten, dieser faltbare Bollerwagen mit Dach Grau ist Ihr zuverlässiger Partner. Mit seinen fünf Sternen und 175 Bewertungen zeichnet sich das Produkt durch seine hohe Qualität und Benutzerzufriedenheit aus.</p><p class=\"justify\">Der faltbare Bollerwagen mit Dach Grau von Sonstige ist nicht nur ein nützlicher Helfer für Ihre Outdoor-Aktivitäten und Transportbedürfnisse, sondern auch eine elegante und funktionelle Ergänzung für Ihre Garten- und Freizeitausrüstung. Entdecken Sie das vielseitige Potenzial dieses großartigen Produkts und erleben Sie eine neue Stufe von Komfort und Effizienz bei Ihren Outdoor-Abenteuern und Gartenprojekten.</p>"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "Freizeit, Sport & Spiel: $KATEGORIE",
+    "defaultMetaDescription": "Kaufe jetzt eines unserer Produkte aus der $KATEGORIE und spare viel Geld in unserem Shop.  Die besten Angebote nur heute!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Freizeit, Sport & Spiel Shop",
+    "defaultMetaDescription": "$HERSTELLER ist Dein Spezialist für Freizeit, Sport und Spiel. Bei uns findest Du alles, was Du für Deine Freizeitgestaltung brauchst!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Freizeit, Sport & Spiel",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Freizeit, Sport & Spiel Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Freizeit, Sport & Spiel Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  }
 }
